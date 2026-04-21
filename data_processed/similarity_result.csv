@@ -1,0 +1,1125 @@
+state1,state2,jaccard
+Connecticut,New Hampshire,0.6
+Idaho,Wyoming,0.5384615384615384
+Connecticut,Massachusetts,0.5
+North Dakota,South Dakota,0.5
+Massachusetts,New Hampshire,0.5
+Maryland,Massachusetts,0.47058823529411764
+Maryland,South Carolina,0.4444444444444444
+Delaware,New Jersey,0.4444444444444444
+New Hampshire,Vermont,0.4375
+Florida,Texas,0.42857142857142855
+South Carolina,Virginia,0.42105263157894735
+Maine,New Hampshire,0.4117647058823529
+Maryland,New Hampshire,0.3888888888888889
+New Jersey,Pennsylvania,0.3888888888888889
+Massachusetts,South Carolina,0.3888888888888889
+Connecticut,Maryland,0.3888888888888889
+Arizona,Nevada,0.375
+Arizona,New Mexico,0.375
+Nevada,Utah,0.375
+Illinois,South Dakota,0.375
+Nevada,New Mexico,0.375
+Alabama,Mississippi,0.3684210526315789
+Delaware,New Hampshire,0.3684210526315789
+Alabama,Louisiana,0.3684210526315789
+Maine,Vermont,0.35294117647058826
+Connecticut,Vermont,0.35294117647058826
+Arkansas,Oklahoma,0.35294117647058826
+Delaware,Maryland,0.35
+Maryland,Virginia,0.35
+Delaware,Pennsylvania,0.35
+North Carolina,Virginia,0.3333333333333333
+Alabama,Tennessee,0.3333333333333333
+Arizona,Colorado,0.3333333333333333
+Missouri,Wisconsin,0.3333333333333333
+Michigan,Ohio,0.3333333333333333
+Maine,Massachusetts,0.3333333333333333
+New Hampshire,New Jersey,0.3333333333333333
+Connecticut,New Jersey,0.3333333333333333
+Georgia,Washington,0.3333333333333333
+Georgia,New York,0.3333333333333333
+Connecticut,Maine,0.3333333333333333
+Kansas,Wisconsin,0.3333333333333333
+Louisiana,Mississippi,0.3333333333333333
+Montana,Wyoming,0.3333333333333333
+Montana,North Dakota,0.3333333333333333
+New Hampshire,South Carolina,0.3157894736842105
+Delaware,Vermont,0.3157894736842105
+Connecticut,South Carolina,0.3157894736842105
+Maryland,New Jersey,0.3157894736842105
+Alabama,Texas,0.3157894736842105
+Idaho,South Dakota,0.3125
+Indiana,Wisconsin,0.3125
+Iowa,Nebraska,0.3125
+Utah,Wyoming,0.3125
+Montana,South Dakota,0.3125
+Kansas,Nebraska,0.3125
+Delaware,Maine,0.3
+Massachusetts,Virginia,0.3
+Ohio,Virginia,0.3
+Delaware,West Virginia,0.3
+Connecticut,Delaware,0.3
+North Carolina,Tennessee,0.3
+Arkansas,Mississippi,0.3
+Alabama,North Carolina,0.3
+Louisiana,Tennessee,0.3
+Arkansas,Kentucky,0.29411764705882354
+Arizona,Utah,0.29411764705882354
+Nebraska,South Dakota,0.29411764705882354
+Arizona,Minnesota,0.29411764705882354
+Nebraska,Oklahoma,0.29411764705882354
+Illinois,Nebraska,0.29411764705882354
+New Mexico,Utah,0.29411764705882354
+Arkansas,Iowa,0.29411764705882354
+Florida,North Carolina,0.2916666666666667
+North Carolina,Texas,0.2857142857142857
+Pennsylvania,Virginia,0.2857142857142857
+Alaska,Hawaii,0.2857142857142857
+Mississippi,Texas,0.2857142857142857
+Louisiana,Texas,0.2857142857142857
+New Jersey,Vermont,0.2777777777777778
+Massachusetts,Vermont,0.2777777777777778
+Illinois,Ohio,0.2777777777777778
+Michigan,Minnesota,0.2777777777777778
+Illinois,Michigan,0.2777777777777778
+Mississippi,North Carolina,0.2727272727272727
+Mississippi,Virginia,0.2727272727272727
+Indiana,Maryland,0.2631578947368421
+Colorado,Nevada,0.2631578947368421
+California,Utah,0.2631578947368421
+Colorado,Utah,0.2631578947368421
+California,Nevada,0.2631578947368421
+Arkansas,Tennessee,0.2631578947368421
+Massachusetts,New Jersey,0.2631578947368421
+Arizona,California,0.2631578947368421
+Maine,New Jersey,0.2631578947368421
+Alabama,Arkansas,0.2631578947368421
+Kentucky,Mississippi,0.2631578947368421
+Maryland,West Virginia,0.25
+Missouri,North Dakota,0.25
+Idaho,North Dakota,0.25
+Idaho,Montana,0.25
+Kansas,Missouri,0.25
+Maine,Maryland,0.25
+Alabama,South Carolina,0.25
+Florida,South Carolina,0.25
+Alabama,Maryland,0.25
+Iowa,Kentucky,0.25
+Iowa,Kansas,0.25
+Kansas,North Dakota,0.25
+South Carolina,Tennessee,0.25
+North Dakota,Wisconsin,0.25
+Florida,Virginia,0.24
+Florida,Louisiana,0.24
+Mississippi,Tennessee,0.23809523809523808
+Arkansas,North Carolina,0.23809523809523808
+California,Colorado,0.23809523809523808
+Connecticut,Virginia,0.23809523809523808
+Virginia,West Virginia,0.23809523809523808
+New Jersey,Virginia,0.23809523809523808
+Arkansas,Virginia,0.23809523809523808
+Mississippi,Ohio,0.23809523809523808
+Maryland,Pennsylvania,0.23809523809523808
+Delaware,Massachusetts,0.23809523809523808
+Alabama,Virginia,0.23809523809523808
+New Hampshire,Virginia,0.23809523809523808
+Tennessee,Virginia,0.23809523809523808
+Arkansas,Louisiana,0.23809523809523808
+California,Texas,0.23809523809523808
+Missouri,South Dakota,0.23529411764705882
+South Dakota,Wisconsin,0.23529411764705882
+Nebraska,North Dakota,0.23529411764705882
+Montana,Nevada,0.23529411764705882
+Idaho,Utah,0.23529411764705882
+Nevada,Wyoming,0.23529411764705882
+Kentucky,Oklahoma,0.23529411764705882
+Idaho,Oklahoma,0.23529411764705882
+Idaho,Nebraska,0.23529411764705882
+Nebraska,Wisconsin,0.23529411764705882
+South Dakota,Wyoming,0.23529411764705882
+Missouri,Nebraska,0.23529411764705882
+Minnesota,Wisconsin,0.23529411764705882
+Kansas,South Dakota,0.23529411764705882
+Idaho,Illinois,0.23529411764705882
+Montana,Oregon,0.23529411764705882
+Montana,Utah,0.23529411764705882
+Kansas,Oklahoma,0.23529411764705882
+Kansas,Oregon,0.23529411764705882
+Minnesota,Missouri,0.23529411764705882
+Iowa,South Dakota,0.23529411764705882
+Arizona,Wyoming,0.23529411764705882
+Illinois,Iowa,0.23529411764705882
+Indiana,Missouri,0.23529411764705882
+Iowa,Utah,0.23529411764705882
+Illinois,Missouri,0.23529411764705882
+Illinois,Wisconsin,0.23529411764705882
+Illinois,North Dakota,0.23529411764705882
+Illinois,Kansas,0.23529411764705882
+Iowa,Oklahoma,0.23529411764705882
+North Dakota,Vermont,0.23529411764705882
+Arizona,Montana,0.23529411764705882
+Indiana,Kansas,0.23529411764705882
+New York,Ohio,0.23076923076923078
+Texas,Virginia,0.22727272727272727
+Louisiana,South Carolina,0.22727272727272727
+North Carolina,Pennsylvania,0.22727272727272727
+Maryland,North Carolina,0.22727272727272727
+North Carolina,South Carolina,0.22727272727272727
+Delaware,South Carolina,0.22727272727272727
+Mississippi,South Carolina,0.22727272727272727
+Indiana,Nebraska,0.2222222222222222
+Alabama,Wisconsin,0.2222222222222222
+Kentucky,Tennessee,0.2222222222222222
+Nebraska,Utah,0.2222222222222222
+Indiana,Minnesota,0.2222222222222222
+Minnesota,New Mexico,0.2222222222222222
+Nevada,Oregon,0.2222222222222222
+Minnesota,Nevada,0.2222222222222222
+Iowa,Ohio,0.2222222222222222
+Oregon,Utah,0.2222222222222222
+Illinois,Oklahoma,0.2222222222222222
+New Hampshire,North Dakota,0.2222222222222222
+Oklahoma,South Dakota,0.2222222222222222
+New Mexico,Oregon,0.2222222222222222
+Missouri,Tennessee,0.2222222222222222
+Alabama,Kentucky,0.2222222222222222
+Oklahoma,Utah,0.2222222222222222
+Louisiana,Virginia,0.21739130434782608
+Louisiana,North Carolina,0.21739130434782608
+Delaware,Virginia,0.21739130434782608
+Michigan,New Mexico,0.21052631578947367
+Colorado,Wyoming,0.21052631578947367
+Michigan,Nevada,0.21052631578947367
+Arizona,Michigan,0.21052631578947367
+Arizona,Massachusetts,0.21052631578947367
+Alabama,Indiana,0.21052631578947367
+California,Wyoming,0.21052631578947367
+Montana,Texas,0.21052631578947367
+Arkansas,Nebraska,0.21052631578947367
+Vermont,West Virginia,0.21052631578947367
+Massachusetts,Minnesota,0.21052631578947367
+California,Montana,0.21052631578947367
+Colorado,Montana,0.21052631578947367
+Michigan,South Dakota,0.21052631578947367
+Arkansas,Utah,0.21052631578947367
+Maryland,Wisconsin,0.21052631578947367
+Ohio,South Dakota,0.21052631578947367
+Indiana,Massachusetts,0.21052631578947367
+Minnesota,Ohio,0.21052631578947367
+Iowa,Pennsylvania,0.21052631578947367
+Alabama,Florida,0.20833333333333334
+Kentucky,North Carolina,0.2
+Oregon,Texas,0.2
+Colorado,Minnesota,0.2
+Texas,Utah,0.2
+Colorado,New Mexico,0.2
+Iowa,Mississippi,0.2
+Indiana,South Carolina,0.2
+Nebraska,Pennsylvania,0.2
+Delaware,North Dakota,0.2
+Kentucky,Louisiana,0.2
+Nevada,Texas,0.2
+Kentucky,Virginia,0.2
+California,New Mexico,0.2
+New York,Virginia,0.2
+Kansas,Mississippi,0.2
+Maryland,Vermont,0.2
+New Mexico,Texas,0.2
+Maine,West Virginia,0.2
+Illinois,Pennsylvania,0.2
+California,Oregon,0.2
+Massachusetts,West Virginia,0.2
+New Jersey,West Virginia,0.2
+Arizona,Texas,0.2
+New Hampshire,West Virginia,0.2
+Florida,Mississippi,0.19230769230769232
+Maine,Pennsylvania,0.19047619047619047
+Maine,South Carolina,0.19047619047619047
+New Hampshire,Pennsylvania,0.19047619047619047
+Mississippi,Oklahoma,0.19047619047619047
+Connecticut,Pennsylvania,0.19047619047619047
+Arkansas,Texas,0.19047619047619047
+New Jersey,South Carolina,0.19047619047619047
+Mississippi,Oregon,0.19047619047619047
+Arkansas,South Carolina,0.19047619047619047
+Arkansas,Pennsylvania,0.19047619047619047
+Maryland,Tennessee,0.19047619047619047
+Massachusetts,Pennsylvania,0.19047619047619047
+Tennessee,Texas,0.19047619047619047
+Michigan,Texas,0.19047619047619047
+California,Michigan,0.19047619047619047
+South Carolina,West Virginia,0.19047619047619047
+California,New Jersey,0.19047619047619047
+Ohio,Pennsylvania,0.19047619047619047
+Arizona,Louisiana,0.19047619047619047
+Alaska,Wyoming,0.18181818181818182
+Michigan,Virginia,0.18181818181818182
+Maryland,Texas,0.18181818181818182
+Alaska,Montana,0.18181818181818182
+North Carolina,Ohio,0.18181818181818182
+Louisiana,Ohio,0.18181818181818182
+Colorado,Texas,0.18181818181818182
+New Jersey,North Carolina,0.18181818181818182
+South Carolina,Texas,0.18181818181818182
+Iowa,Wyoming,0.17647058823529413
+Kansas,Montana,0.17647058823529413
+Idaho,Iowa,0.17647058823529413
+Iowa,North Dakota,0.17647058823529413
+Montana,Wisconsin,0.17647058823529413
+Iowa,Missouri,0.17647058823529413
+Kansas,Kentucky,0.17647058823529413
+Idaho,Wisconsin,0.17647058823529413
+Iowa,Wisconsin,0.17647058823529413
+North Dakota,Wyoming,0.17647058823529413
+Idaho,Kansas,0.17647058823529413
+Idaho,Missouri,0.17647058823529413
+California,Louisiana,0.17391304347826086
+Colorado,Louisiana,0.17391304347826086
+Maryland,Mississippi,0.17391304347826086
+Louisiana,Maryland,0.17391304347826086
+Delaware,North Carolina,0.16666666666666666
+Kentucky,Oregon,0.16666666666666666
+Delaware,Louisiana,0.16666666666666666
+Iowa,New Mexico,0.16666666666666666
+Iowa,Oregon,0.16666666666666666
+Kentucky,Utah,0.16666666666666666
+Minnesota,Montana,0.16666666666666666
+Kentucky,New Mexico,0.16666666666666666
+Hawaii,Idaho,0.16666666666666666
+Idaho,Vermont,0.16666666666666666
+Kansas,New Mexico,0.16666666666666666
+Kansas,Nevada,0.16666666666666666
+Idaho,Nevada,0.16666666666666666
+Kansas,Minnesota,0.16666666666666666
+Illinois,Wyoming,0.16666666666666666
+Hawaii,Wyoming,0.16666666666666666
+Indiana,Iowa,0.16666666666666666
+Hawaii,Montana,0.16666666666666666
+Minnesota,North Dakota,0.16666666666666666
+Kentucky,Nevada,0.16666666666666666
+Kansas,Utah,0.16666666666666666
+Minnesota,Wyoming,0.16666666666666666
+Florida,Washington,0.16666666666666666
+Indiana,Montana,0.16666666666666666
+Indiana,North Dakota,0.16666666666666666
+Florida,Oklahoma,0.16666666666666666
+Kentucky,Nebraska,0.16666666666666666
+Iowa,Minnesota,0.16666666666666666
+Florida,Illinois,0.16666666666666666
+Iowa,Nevada,0.16666666666666666
+Missouri,Oklahoma,0.16666666666666666
+New Mexico,Wyoming,0.16666666666666666
+Oklahoma,Wyoming,0.16666666666666666
+Arizona,Wisconsin,0.16666666666666666
+Montana,Vermont,0.16666666666666666
+Vermont,Wyoming,0.16666666666666666
+Nebraska,Wyoming,0.16666666666666666
+Arizona,Idaho,0.16666666666666666
+Oregon,Wyoming,0.16666666666666666
+Oregon,Wisconsin,0.16666666666666666
+North Dakota,Oklahoma,0.16666666666666666
+Oklahoma,Wisconsin,0.16666666666666666
+Montana,New Mexico,0.16666666666666666
+Arizona,Missouri,0.16666666666666666
+Alaska,California,0.16
+Arkansas,Florida,0.16
+Florida,Tennessee,0.16
+Florida,New Jersey,0.16
+Minnesota,South Dakota,0.15789473684210525
+North Dakota,West Virginia,0.15789473684210525
+Arizona,Indiana,0.15789473684210525
+Nebraska,Oregon,0.15789473684210525
+North Dakota,Ohio,0.15789473684210525
+Ohio,Wisconsin,0.15789473684210525
+Illinois,Utah,0.15789473684210525
+Maine,Wyoming,0.15789473684210525
+Nebraska,New Mexico,0.15789473684210525
+Indiana,Oregon,0.15789473684210525
+Oklahoma,Oregon,0.15789473684210525
+Minnesota,Utah,0.15789473684210525
+Arizona,Oregon,0.15789473684210525
+Nevada,Oklahoma,0.15789473684210525
+Minnesota,Oregon,0.15789473684210525
+Arkansas,Wyoming,0.15789473684210525
+Massachusetts,Wisconsin,0.15789473684210525
+New Hampshire,Wyoming,0.15789473684210525
+New Jersey,North Dakota,0.15789473684210525
+Michigan,Missouri,0.15789473684210525
+Michigan,Montana,0.15789473684210525
+Idaho,Maine,0.15789473684210525
+Idaho,New Hampshire,0.15789473684210525
+Michigan,North Dakota,0.15789473684210525
+Massachusetts,Missouri,0.15789473684210525
+New Mexico,Oklahoma,0.15789473684210525
+Nebraska,Nevada,0.15789473684210525
+Idaho,West Virginia,0.15789473684210525
+Michigan,Wisconsin,0.15789473684210525
+Michigan,Wyoming,0.15789473684210525
+Illinois,Indiana,0.15789473684210525
+Arkansas,Kansas,0.15789473684210525
+Hawaii,Indiana,0.15789473684210525
+Minnesota,Nebraska,0.15789473684210525
+Arkansas,Idaho,0.15789473684210525
+Illinois,Minnesota,0.15789473684210525
+Indiana,South Dakota,0.15789473684210525
+Hawaii,Vermont,0.15789473684210525
+South Dakota,Vermont,0.15789473684210525
+Connecticut,Kansas,0.15789473684210525
+Tennessee,Wisconsin,0.15789473684210525
+Connecticut,North Dakota,0.15789473684210525
+Kansas,Ohio,0.15789473684210525
+Maine,North Dakota,0.15789473684210525
+South Dakota,Utah,0.15789473684210525
+Kansas,Michigan,0.15789473684210525
+Kentucky,West Virginia,0.15789473684210525
+Missouri,Ohio,0.15789473684210525
+Alabama,Kansas,0.15789473684210525
+Montana,West Virginia,0.15789473684210525
+Alabama,Missouri,0.15789473684210525
+Connecticut,Kentucky,0.15789473684210525
+Iowa,Michigan,0.15789473684210525
+Iowa,Tennessee,0.15789473684210525
+Maine,Montana,0.15789473684210525
+Montana,New Hampshire,0.15789473684210525
+Indiana,Vermont,0.15789473684210525
+West Virginia,Wyoming,0.15789473684210525
+Kentucky,Ohio,0.15789473684210525
+Alabama,Iowa,0.15789473684210525
+Alabama,Montana,0.15789473684210525
+Connecticut,Iowa,0.15789473684210525
+Illinois,Washington,0.15384615384615385
+Florida,Maryland,0.15384615384615385
+Florida,Pennsylvania,0.15384615384615385
+Georgia,Illinois,0.15384615384615385
+Hawaii,Rhode Island,0.15384615384615385
+Rhode Island,Vermont,0.15384615384615385
+California,Florida,0.15384615384615385
+Arkansas,Oregon,0.15
+Hawaii,West Virginia,0.15
+Kentucky,Maryland,0.15
+Alabama,Minnesota,0.15
+New Mexico,West Virginia,0.15
+Arkansas,New Mexico,0.15
+Kentucky,Pennsylvania,0.15
+Kentucky,Texas,0.15
+Massachusetts,Nevada,0.15
+Idaho,Pennsylvania,0.15
+New Mexico,Ohio,0.15
+Arkansas,South Dakota,0.15
+Texas,Wisconsin,0.15
+Texas,Wyoming,0.15
+Massachusetts,New Mexico,0.15
+California,Idaho,0.15
+Indiana,Tennessee,0.15
+Kansas,Texas,0.15
+Alabama,Oklahoma,0.15
+Indiana,West Virginia,0.15
+Indiana,Ohio,0.15
+Oklahoma,Tennessee,0.15
+Indiana,New Jersey,0.15
+California,North Dakota,0.15
+Indiana,New Hampshire,0.15
+Maine,South Dakota,0.15
+Oklahoma,West Virginia,0.15
+Indiana,Michigan,0.15
+Indiana,Maine,0.15
+Alabama,Arizona,0.15
+Pennsylvania,Wyoming,0.15
+Arizona,Ohio,0.15
+Kansas,Maryland,0.15
+Arizona,Tennessee,0.15
+Arizona,West Virginia,0.15
+Maryland,Missouri,0.15
+Illinois,New Jersey,0.15
+South Carolina,Wisconsin,0.15
+Maryland,Montana,0.15
+South Dakota,West Virginia,0.15
+Alabama,Oregon,0.15
+Arkansas,Illinois,0.15
+Arkansas,Nevada,0.15
+Kentucky,South Carolina,0.15
+Minnesota,West Virginia,0.15
+Hawaii,New Hampshire,0.15
+Hawaii,Maine,0.15
+Colorado,Kansas,0.15
+Colorado,Kentucky,0.15
+Connecticut,Indiana,0.15
+Michigan,Utah,0.15
+Nevada,West Virginia,0.15
+Colorado,Wisconsin,0.15
+Connecticut,Nebraska,0.15
+Connecticut,Nevada,0.15
+Connecticut,New Mexico,0.15
+Michigan,Oregon,0.15
+Nebraska,Ohio,0.15
+Colorado,Idaho,0.15
+Nevada,Ohio,0.15
+Colorado,Missouri,0.15
+Missouri,South Carolina,0.15
+Connecticut,Oklahoma,0.15
+New Hampshire,South Dakota,0.15
+Connecticut,Oregon,0.15
+Michigan,Nebraska,0.15
+Minnesota,Tennessee,0.15
+Connecticut,Utah,0.15
+Delaware,Florida,0.14814814814814814
+Mississippi,Montana,0.14285714285714285
+Oklahoma,Texas,0.14285714285714285
+Oklahoma,South Carolina,0.14285714285714285
+Indiana,Texas,0.14285714285714285
+Illinois,Texas,0.14285714285714285
+Maine,Rhode Island,0.14285714285714285
+Oklahoma,Pennsylvania,0.14285714285714285
+Arizona,Maryland,0.14285714285714285
+North Carolina,Wisconsin,0.14285714285714285
+Georgia,Michigan,0.14285714285714285
+Iowa,Louisiana,0.14285714285714285
+Ohio,Tennessee,0.14285714285714285
+Colorado,Oregon,0.14285714285714285
+Ohio,West Virginia,0.14285714285714285
+Indiana,Pennsylvania,0.14285714285714285
+Louisiana,Wisconsin,0.14285714285714285
+Louisiana,North Dakota,0.14285714285714285
+Delaware,Idaho,0.14285714285714285
+Delaware,Montana,0.14285714285714285
+Connecticut,West Virginia,0.14285714285714285
+Alabama,Massachusetts,0.14285714285714285
+Montana,North Carolina,0.14285714285714285
+Louisiana,Missouri,0.14285714285714285
+Mississippi,Wisconsin,0.14285714285714285
+Tennessee,West Virginia,0.14285714285714285
+Alabama,Ohio,0.14285714285714285
+Kansas,North Carolina,0.14285714285714285
+Pennsylvania,South Dakota,0.14285714285714285
+Alabama,West Virginia,0.14285714285714285
+Delaware,Wyoming,0.14285714285714285
+South Carolina,Vermont,0.14285714285714285
+Rhode Island,West Virginia,0.14285714285714285
+Minnesota,Texas,0.14285714285714285
+Iowa,Virginia,0.14285714285714285
+Pennsylvania,Vermont,0.14285714285714285
+Pennsylvania,Utah,0.14285714285714285
+Iowa,North Carolina,0.14285714285714285
+Rhode Island,Washington,0.14285714285714285
+Delaware,Kentucky,0.14285714285714285
+Maryland,Minnesota,0.14285714285714285
+Michigan,New Jersey,0.14285714285714285
+Colorado,Indiana,0.14285714285714285
+Michigan,West Virginia,0.14285714285714285
+Maryland,Oregon,0.14285714285714285
+Maryland,Oklahoma,0.14285714285714285
+Arkansas,Ohio,0.14285714285714285
+Arkansas,West Virginia,0.14285714285714285
+Massachusetts,Michigan,0.14285714285714285
+California,Vermont,0.14285714285714285
+Arkansas,Connecticut,0.14285714285714285
+Michigan,New York,0.14285714285714285
+New Hampshire,Rhode Island,0.14285714285714285
+New York,Washington,0.14285714285714285
+Arizona,South Carolina,0.14285714285714285
+California,Minnesota,0.14285714285714285
+California,Illinois,0.14285714285714285
+Georgia,Ohio,0.14285714285714285
+Massachusetts,Ohio,0.14285714285714285
+New Jersey,Ohio,0.14285714285714285
+Massachusetts,Tennessee,0.14285714285714285
+Minnesota,South Carolina,0.14285714285714285
+Pennsylvania,West Virginia,0.13636363636363635
+Delaware,Hawaii,0.13636363636363635
+Alabama,Colorado,0.13636363636363635
+Louisiana,Vermont,0.13636363636363635
+Louisiana,Minnesota,0.13636363636363635
+Delaware,Indiana,0.13636363636363635
+Nevada,Virginia,0.13636363636363635
+Minnesota,Virginia,0.13636363636363635
+Pennsylvania,Tennessee,0.13636363636363635
+Arkansas,Maryland,0.13636363636363635
+Mississippi,South Dakota,0.13636363636363635
+California,New Hampshire,0.13636363636363635
+Louisiana,Utah,0.13636363636363635
+Louisiana,South Dakota,0.13636363636363635
+Mississippi,Utah,0.13636363636363635
+New Mexico,Virginia,0.13636363636363635
+Delaware,Oklahoma,0.13636363636363635
+Michigan,Pennsylvania,0.13636363636363635
+Louisiana,Oklahoma,0.13636363636363635
+Alabama,Pennsylvania,0.13636363636363635
+Oklahoma,Virginia,0.13636363636363635
+California,Connecticut,0.13636363636363635
+New Jersey,Texas,0.13636363636363635
+Louisiana,New Mexico,0.13636363636363635
+Louisiana,Nevada,0.13636363636363635
+Texas,West Virginia,0.13636363636363635
+Delaware,South Dakota,0.13636363636363635
+California,Ohio,0.13636363636363635
+Mississippi,Nebraska,0.13636363636363635
+Indiana,North Carolina,0.13636363636363635
+Mississippi,Nevada,0.13636363636363635
+Illinois,Louisiana,0.13636363636363635
+Colorado,Massachusetts,0.13636363636363635
+Colorado,Michigan,0.13636363636363635
+Mississippi,New Mexico,0.13636363636363635
+North Carolina,Oregon,0.13636363636363635
+Ohio,Texas,0.13636363636363635
+Colorado,Tennessee,0.13636363636363635
+Ohio,South Carolina,0.13636363636363635
+Illinois,Virginia,0.13636363636363635
+Indiana,Louisiana,0.13636363636363635
+Indiana,Mississippi,0.13636363636363635
+Illinois,North Carolina,0.13636363636363635
+Arizona,Virginia,0.13636363636363635
+Illinois,Mississippi,0.13636363636363635
+North Carolina,Oklahoma,0.13636363636363635
+Rhode Island,South Carolina,0.13333333333333333
+New York,Pennsylvania,0.13333333333333333
+Louisiana,New Hampshire,0.13043478260869565
+Arkansas,Delaware,0.13043478260869565
+Connecticut,Mississippi,0.13043478260869565
+Louisiana,New Jersey,0.13043478260869565
+Mississippi,West Virginia,0.13043478260869565
+Colorado,South Carolina,0.13043478260869565
+Michigan,North Carolina,0.13043478260869565
+Delaware,Tennessee,0.13043478260869565
+Alaska,Idaho,0.13043478260869565
+Pennsylvania,Texas,0.13043478260869565
+New Hampshire,North Carolina,0.13043478260869565
+Colorado,Maryland,0.13043478260869565
+North Carolina,West Virginia,0.13043478260869565
+California,Pennsylvania,0.13043478260869565
+Alabama,Delaware,0.13043478260869565
+Maine,Virginia,0.13043478260869565
+Michigan,Mississippi,0.13043478260869565
+Louisiana,West Virginia,0.13043478260869565
+Pennsylvania,South Carolina,0.13043478260869565
+Maine,North Carolina,0.13043478260869565
+Massachusetts,North Carolina,0.13043478260869565
+Louisiana,Massachusetts,0.13043478260869565
+Louisiana,Michigan,0.13043478260869565
+Connecticut,Louisiana,0.13043478260869565
+Connecticut,North Carolina,0.13043478260869565
+Delaware,Rhode Island,0.125
+Georgia,Virginia,0.125
+Florida,Wisconsin,0.125
+California,Delaware,0.125
+Mississippi,Pennsylvania,0.125
+Louisiana,Pennsylvania,0.125
+Alaska,Nevada,0.125
+Alaska,Utah,0.125
+Florida,North Dakota,0.125
+Florida,Idaho,0.125
+California,North Carolina,0.125
+Florida,Kansas,0.125
+New York,North Carolina,0.125
+Florida,Kentucky,0.125
+Alaska,Oregon,0.125
+California,Virginia,0.125
+Alaska,Arizona,0.125
+Florida,Missouri,0.125
+Delaware,Texas,0.125
+Delaware,Mississippi,0.12
+Florida,Nebraska,0.12
+Arizona,Florida,0.12
+Florida,South Dakota,0.12
+Florida,Nevada,0.12
+Florida,Utah,0.12
+Florida,New Mexico,0.12
+Florida,Ohio,0.11538461538461539
+Connecticut,Florida,0.11538461538461539
+Florida,West Virginia,0.11538461538461539
+Florida,Maine,0.11538461538461539
+Alaska,Colorado,0.11538461538461539
+Florida,Massachusetts,0.11538461538461539
+Florida,Michigan,0.11538461538461539
+Florida,New Hampshire,0.11538461538461539
+Kentucky,Wyoming,0.1111111111111111
+Kentucky,Wisconsin,0.1111111111111111
+Missouri,Montana,0.1111111111111111
+Missouri,Wyoming,0.1111111111111111
+Wisconsin,Wyoming,0.1111111111111111
+Iowa,Montana,0.1111111111111111
+Idaho,Kentucky,0.1111111111111111
+Kentucky,Montana,0.1111111111111111
+Kentucky,Missouri,0.1111111111111111
+Colorado,Florida,0.1111111111111111
+Kentucky,North Dakota,0.1111111111111111
+Kansas,Wyoming,0.1111111111111111
+Kentucky,South Dakota,0.10526315789473684
+Missouri,Vermont,0.10526315789473684
+New Mexico,North Dakota,0.10526315789473684
+Idaho,Oregon,0.10526315789473684
+Indiana,Wyoming,0.10526315789473684
+Nevada,North Dakota,0.10526315789473684
+Montana,Oklahoma,0.10526315789473684
+Indiana,Kentucky,0.10526315789473684
+Montana,Nebraska,0.10526315789473684
+Missouri,New Mexico,0.10526315789473684
+Missouri,Utah,0.10526315789473684
+Missouri,Oregon,0.10526315789473684
+Iowa,Vermont,0.10526315789473684
+Missouri,Nevada,0.10526315789473684
+Florida,Georgia,0.10526315789473684
+Illinois,Montana,0.10526315789473684
+Hawaii,North Dakota,0.10526315789473684
+Idaho,Indiana,0.10526315789473684
+Illinois,Kentucky,0.10526315789473684
+Idaho,Minnesota,0.10526315789473684
+Idaho,New Mexico,0.10526315789473684
+New Mexico,Wisconsin,0.10526315789473684
+Nevada,Wisconsin,0.10526315789473684
+Arizona,Kentucky,0.10526315789473684
+Arizona,Iowa,0.10526315789473684
+Kentucky,Minnesota,0.10526315789473684
+Arizona,Kansas,0.10526315789473684
+Utah,Wisconsin,0.10526315789473684
+North Dakota,Utah,0.10526315789473684
+Vermont,Wisconsin,0.10526315789473684
+North Dakota,Oregon,0.10526315789473684
+Kentucky,Vermont,0.10526315789473684
+Arizona,North Dakota,0.10526315789473684
+Kansas,Vermont,0.10526315789473684
+Alabama,Wyoming,0.1
+Missouri,New Jersey,0.1
+Missouri,New Hampshire,0.1
+Alabama,North Dakota,0.1
+Tennessee,Wyoming,0.1
+Minnesota,Vermont,0.1
+Minnesota,Oklahoma,0.1
+Hawaii,Nebraska,0.1
+Oregon,Vermont,0.1
+Utah,Vermont,0.1
+Arizona,Oklahoma,0.1
+Hawaii,Nevada,0.1
+Oklahoma,Vermont,0.1
+Hawaii,South Dakota,0.1
+Massachusetts,Wyoming,0.1
+Hawaii,Utah,0.1
+Alabama,Idaho,0.1
+Massachusetts,North Dakota,0.1
+Idaho,Massachusetts,0.1
+Idaho,Michigan,0.1
+Idaho,New Jersey,0.1
+Massachusetts,Montana,0.1
+West Virginia,Wisconsin,0.1
+Oregon,South Dakota,0.1
+Connecticut,Wyoming,0.1
+Missouri,West Virginia,0.1
+New Hampshire,Wisconsin,0.1
+Arizona,South Dakota,0.1
+Arizona,Vermont,0.1
+Arkansas,Missouri,0.1
+Arkansas,Montana,0.1
+New Mexico,Vermont,0.1
+North Dakota,Tennessee,0.1
+Arkansas,North Dakota,0.1
+New Mexico,South Dakota,0.1
+Arkansas,Wisconsin,0.1
+New Jersey,Wyoming,0.1
+New Jersey,Wisconsin,0.1
+Arizona,Nebraska,0.1
+Ohio,Wyoming,0.1
+Nevada,Vermont,0.1
+Nevada,South Dakota,0.1
+Nebraska,Vermont,0.1
+Arizona,Illinois,0.1
+Connecticut,Missouri,0.1
+Connecticut,Montana,0.1
+Montana,Tennessee,0.1
+Arizona,Hawaii,0.1
+Montana,Ohio,0.1
+Montana,New Jersey,0.1
+Connecticut,Wisconsin,0.1
+Idaho,Ohio,0.1
+Connecticut,Idaho,0.1
+Iowa,Massachusetts,0.1
+Illinois,New Mexico,0.1
+Kansas,New Hampshire,0.1
+Kansas,Massachusetts,0.1
+Kansas,Maine,0.1
+Illinois,Nevada,0.1
+Iowa,West Virginia,0.1
+Iowa,New Jersey,0.1
+Iowa,New Hampshire,0.1
+Maine,Missouri,0.1
+Kansas,Tennessee,0.1
+Iowa,Maine,0.1
+Indiana,Utah,0.1
+Indiana,Oklahoma,0.1
+Indiana,New Mexico,0.1
+Indiana,Nevada,0.1
+Illinois,Vermont,0.1
+Maine,Wisconsin,0.1
+Kansas,New Jersey,0.1
+Illinois,Oregon,0.1
+Kentucky,Maine,0.1
+Kentucky,New Jersey,0.1
+Kentucky,New Hampshire,0.1
+Kentucky,Michigan,0.1
+Kentucky,Massachusetts,0.1
+Idaho,Tennessee,0.1
+Kansas,West Virginia,0.1
+Maine,New Mexico,0.09523809523809523
+Colorado,North Dakota,0.09523809523809523
+Nebraska,West Virginia,0.09523809523809523
+Nevada,New Hampshire,0.09523809523809523
+Nevada,New Jersey,0.09523809523809523
+Nevada,Tennessee,0.09523809523809523
+Colorado,Iowa,0.09523809523809523
+South Carolina,Wyoming,0.09523809523809523
+Nebraska,Tennessee,0.09523809523809523
+Maine,Nevada,0.09523809523809523
+New Hampshire,New Mexico,0.09523809523809523
+California,Wisconsin,0.09523809523809523
+New Hampshire,Oregon,0.09523809523809523
+New Hampshire,Utah,0.09523809523809523
+Maine,Nebraska,0.09523809523809523
+California,Missouri,0.09523809523809523
+Alabama,Nebraska,0.09523809523809523
+Nebraska,New Hampshire,0.09523809523809523
+Nebraska,New Jersey,0.09523809523809523
+New Jersey,Oklahoma,0.09523809523809523
+Missouri,Pennsylvania,0.09523809523809523
+Missouri,Texas,0.09523809523809523
+Illinois,Tennessee,0.09523809523809523
+Illinois,West Virginia,0.09523809523809523
+Maine,Utah,0.09523809523809523
+Connecticut,South Dakota,0.09523809523809523
+Alabama,Illinois,0.09523809523809523
+Montana,Pennsylvania,0.09523809523809523
+Montana,South Carolina,0.09523809523809523
+Utah,West Virginia,0.09523809523809523
+Maine,Oregon,0.09523809523809523
+Connecticut,Minnesota,0.09523809523809523
+Connecticut,Illinois,0.09523809523809523
+Maine,Oklahoma,0.09523809523809523
+Connecticut,Hawaii,0.09523809523809523
+New Jersey,New Mexico,0.09523809523809523
+California,Kentucky,0.09523809523809523
+New Jersey,Oregon,0.09523809523809523
+Kansas,Pennsylvania,0.09523809523809523
+Arizona,New Hampshire,0.09523809523809523
+Alabama,Utah,0.09523809523809523
+North Dakota,Texas,0.09523809523809523
+Alabama,Vermont,0.09523809523809523
+Arizona,Maine,0.09523809523809523
+Ohio,Oklahoma,0.09523809523809523
+Ohio,Oregon,0.09523809523809523
+Kansas,South Carolina,0.09523809523809523
+North Dakota,Pennsylvania,0.09523809523809523
+South Dakota,Tennessee,0.09523809523809523
+Ohio,Utah,0.09523809523809523
+Ohio,Vermont,0.09523809523809523
+Arizona,Connecticut,0.09523809523809523
+Arizona,Arkansas,0.09523809523809523
+Oregon,Tennessee,0.09523809523809523
+Oregon,West Virginia,0.09523809523809523
+North Dakota,South Carolina,0.09523809523809523
+Alabama,South Dakota,0.09523809523809523
+Pennsylvania,Wisconsin,0.09523809523809523
+Arkansas,Vermont,0.09523809523809523
+New Jersey,South Dakota,0.09523809523809523
+California,Kansas,0.09523809523809523
+New Jersey,Utah,0.09523809523809523
+California,Iowa,0.09523809523809523
+Iowa,Maryland,0.09523809523809523
+Alabama,Nevada,0.09523809523809523
+Maine,Minnesota,0.09523809523809523
+New Mexico,Tennessee,0.09523809523809523
+Arizona,New Jersey,0.09523809523809523
+Alabama,New Mexico,0.09523809523809523
+Tennessee,Vermont,0.09523809523809523
+Arkansas,Minnesota,0.09523809523809523
+Arkansas,Indiana,0.09523809523809523
+Iowa,South Carolina,0.09523809523809523
+Iowa,Texas,0.09523809523809523
+Tennessee,Utah,0.09523809523809523
+Maryland,Wyoming,0.09523809523809523
+New Hampshire,Oklahoma,0.09523809523809523
+Massachusetts,South Dakota,0.09523809523809523
+Hawaii,New Jersey,0.09523809523809523
+Maryland,North Dakota,0.09523809523809523
+Hawaii,Massachusetts,0.09523809523809523
+Idaho,South Carolina,0.09523809523809523
+Idaho,Texas,0.09523809523809523
+Minnesota,New Hampshire,0.09523809523809523
+Illinois,New Hampshire,0.09523809523809523
+Massachusetts,Utah,0.09523809523809523
+Minnesota,New Jersey,0.09523809523809523
+Michigan,Vermont,0.09523809523809523
+Illinois,Massachusetts,0.09523809523809523
+Illinois,Maine,0.09523809523809523
+Idaho,Maryland,0.09523809523809523
+Massachusetts,Oklahoma,0.09523809523809523
+Massachusetts,Oregon,0.09523809523809523
+Michigan,Oklahoma,0.09523809523809523
+Massachusetts,Nebraska,0.09523809523809523
+Virginia,Wyoming,0.09090909090909091
+Maine,Michigan,0.09090909090909091
+Arkansas,New Hampshire,0.09090909090909091
+Arkansas,New Jersey,0.09090909090909091
+Arkansas,Michigan,0.09090909090909091
+Louisiana,Wyoming,0.09090909090909091
+Arkansas,Massachusetts,0.09090909090909091
+Arkansas,Maine,0.09090909090909091
+California,Indiana,0.09090909090909091
+New Mexico,South Carolina,0.09090909090909091
+New Mexico,Pennsylvania,0.09090909090909091
+Hawaii,Maryland,0.09090909090909091
+California,Hawaii,0.09090909090909091
+Michigan,Tennessee,0.09090909090909091
+New Jersey,Tennessee,0.09090909090909091
+California,Nebraska,0.09090909090909091
+California,Oklahoma,0.09090909090909091
+New Hampshire,Tennessee,0.09090909090909091
+California,South Dakota,0.09090909090909091
+Maryland,Nevada,0.09090909090909091
+New Hampshire,Ohio,0.09090909090909091
+Minnesota,Pennsylvania,0.09090909090909091
+Colorado,Hawaii,0.09090909090909091
+Colorado,Illinois,0.09090909090909091
+North Carolina,North Dakota,0.09090909090909091
+Maryland,New Mexico,0.09090909090909091
+Virginia,Wisconsin,0.09090909090909091
+Alabama,Connecticut,0.09090909090909091
+South Dakota,Texas,0.09090909090909091
+South Carolina,Utah,0.09090909090909091
+Idaho,Louisiana,0.09090909090909091
+South Carolina,South Dakota,0.09090909090909091
+Maryland,South Dakota,0.09090909090909091
+Alabama,New Jersey,0.09090909090909091
+Idaho,Virginia,0.09090909090909091
+Alabama,New Hampshire,0.09090909090909091
+Louisiana,Montana,0.09090909090909091
+Texas,Vermont,0.09090909090909091
+Oregon,South Carolina,0.09090909090909091
+Oregon,Pennsylvania,0.09090909090909091
+Idaho,Mississippi,0.09090909090909091
+Alabama,Michigan,0.09090909090909091
+Alabama,Maine,0.09090909090909091
+Maryland,Utah,0.09090909090909091
+Kansas,Virginia,0.09090909090909091
+Illinois,Maryland,0.09090909090909091
+Hawaii,South Carolina,0.09090909090909091
+Hawaii,Pennsylvania,0.09090909090909091
+North Dakota,Virginia,0.09090909090909091
+Michigan,New Hampshire,0.09090909090909091
+Idaho,North Carolina,0.09090909090909091
+Nevada,Pennsylvania,0.09090909090909091
+North Carolina,Wyoming,0.09090909090909091
+Kansas,Louisiana,0.09090909090909091
+Arizona,Pennsylvania,0.09090909090909091
+Nevada,South Carolina,0.09090909090909091
+Mississippi,Wyoming,0.09090909090909091
+Delaware,Missouri,0.09090909090909091
+Missouri,Virginia,0.09090909090909091
+Montana,Virginia,0.09090909090909091
+Maine,Ohio,0.09090909090909091
+Delaware,Kansas,0.09090909090909091
+Maine,Tennessee,0.09090909090909091
+Connecticut,Ohio,0.09090909090909091
+Connecticut,Michigan,0.09090909090909091
+Delaware,Wisconsin,0.09090909090909091
+Illinois,South Carolina,0.09090909090909091
+Delaware,Iowa,0.09090909090909091
+Mississippi,North Dakota,0.09090909090909091
+Connecticut,Tennessee,0.09090909090909091
+Missouri,North Carolina,0.09090909090909091
+Nebraska,Texas,0.09090909090909091
+Colorado,Vermont,0.09090909090909091
+Maryland,Nebraska,0.09090909090909091
+Colorado,South Dakota,0.09090909090909091
+Colorado,Oklahoma,0.09090909090909091
+Nebraska,South Carolina,0.09090909090909091
+Colorado,Nebraska,0.09090909090909091
+Mississippi,Missouri,0.09090909090909091
+Colorado,Maine,0.08695652173913043
+North Carolina,Utah,0.08695652173913043
+Arizona,North Carolina,0.08695652173913043
+Arkansas,Colorado,0.08695652173913043
+Michigan,South Carolina,0.08695652173913043
+North Carolina,South Dakota,0.08695652173913043
+Arkansas,California,0.08695652173913043
+Arizona,Mississippi,0.08695652173913043
+Colorado,West Virginia,0.08695652173913043
+Nebraska,North Carolina,0.08695652173913043
+Louisiana,Oregon,0.08695652173913043
+Maine,Texas,0.08695652173913043
+Vermont,Virginia,0.08695652173913043
+Connecticut,Texas,0.08695652173913043
+Delaware,New Mexico,0.08695652173913043
+South Dakota,Virginia,0.08695652173913043
+Delaware,Oregon,0.08695652173913043
+Delaware,Utah,0.08695652173913043
+Maryland,Michigan,0.08695652173913043
+Delaware,Nevada,0.08695652173913043
+Delaware,Nebraska,0.08695652173913043
+Delaware,Minnesota,0.08695652173913043
+Massachusetts,Texas,0.08695652173913043
+Oregon,Virginia,0.08695652173913043
+Mississippi,Vermont,0.08695652173913043
+Louisiana,Nebraska,0.08695652173913043
+Alabama,California,0.08695652173913043
+Delaware,Illinois,0.08695652173913043
+Utah,Virginia,0.08695652173913043
+Arizona,Delaware,0.08695652173913043
+Maryland,Ohio,0.08695652173913043
+Colorado,Ohio,0.08695652173913043
+North Carolina,Vermont,0.08695652173913043
+Minnesota,Mississippi,0.08695652173913043
+Colorado,New Jersey,0.08695652173913043
+California,West Virginia,0.08695652173913043
+California,Tennessee,0.08695652173913043
+Nebraska,Virginia,0.08695652173913043
+Colorado,Connecticut,0.08695652173913043
+California,Maine,0.08695652173913043
+New Hampshire,Texas,0.08695652173913043
+Nevada,North Carolina,0.08695652173913043
+California,Massachusetts,0.08695652173913043
+Indiana,Virginia,0.08695652173913043
+New Mexico,North Carolina,0.08695652173913043
+Minnesota,North Carolina,0.08695652173913043
+Colorado,New Hampshire,0.08695652173913043
+Massachusetts,Mississippi,0.08333333333333333
+California,Maryland,0.08333333333333333
+Mississippi,New Hampshire,0.08333333333333333
+Louisiana,Maine,0.08333333333333333
+California,South Carolina,0.08333333333333333
+Delaware,Michigan,0.08333333333333333
+Mississippi,New Jersey,0.08333333333333333
+Alaska,North Dakota,0.08333333333333333
+Maine,Mississippi,0.08333333333333333
+Colorado,Pennsylvania,0.08333333333333333
+Delaware,Ohio,0.08333333333333333
+Alaska,New Mexico,0.08
+Alaska,South Dakota,0.08
+Colorado,North Carolina,0.08
+Florida,Iowa,0.08
+Colorado,Virginia,0.08
+Alaska,Vermont,0.08
+Florida,Montana,0.08
+Alaska,Minnesota,0.08
+Colorado,Mississippi,0.08
+Colorado,Delaware,0.08
+Florida,Wyoming,0.08
+California,Mississippi,0.08
+Missouri,Washington,0.07692307692307693
+Alaska,New Hampshire,0.07692307692307693
+Rhode Island,Wyoming,0.07692307692307693
+Georgia,North Dakota,0.07692307692307693
+Georgia,Missouri,0.07692307692307693
+Alaska,Michigan,0.07692307692307693
+Florida,Minnesota,0.07692307692307693
+Florida,Indiana,0.07692307692307693
+Alaska,Maine,0.07692307692307693
+Alaska,West Virginia,0.07692307692307693
+Idaho,Rhode Island,0.07692307692307693
+Kansas,Washington,0.07692307692307693
+Idaho,Washington,0.07692307692307693
+Washington,Wisconsin,0.07692307692307693
+Montana,Rhode Island,0.07692307692307693
+Iowa,New York,0.07692307692307693
+North Dakota,Washington,0.07692307692307693
+Georgia,Wisconsin,0.07692307692307693
+Florida,Oregon,0.07692307692307693
+Kentucky,New York,0.07692307692307693
+Florida,Vermont,0.07692307692307693
+Georgia,Idaho,0.07692307692307693
+North Dakota,Rhode Island,0.07692307692307693
+Georgia,Kansas,0.07692307692307693
+Alaska,Texas,0.07407407407407407
+Nevada,New York,0.07142857142857142
+Georgia,Nevada,0.07142857142857142
+Georgia,Minnesota,0.07142857142857142
+Oklahoma,Washington,0.07142857142857142
+Rhode Island,South Dakota,0.07142857142857142
+Georgia,Oklahoma,0.07142857142857142
+Illinois,New York,0.07142857142857142
+South Dakota,Washington,0.07142857142857142
+Georgia,New Mexico,0.07142857142857142
+Alaska,Delaware,0.07142857142857142
+New Mexico,New York,0.07142857142857142
+Georgia,Nebraska,0.07142857142857142
+Arizona,Georgia,0.07142857142857142
+Minnesota,New York,0.07142857142857142
+Nebraska,Washington,0.07142857142857142
+Indiana,Rhode Island,0.07142857142857142
+Arizona,New York,0.07142857142857142
+Georgia,South Dakota,0.07142857142857142
+New York,Tennessee,0.06666666666666667
+Massachusetts,New York,0.06666666666666667
+Connecticut,Rhode Island,0.06666666666666667
+Massachusetts,Rhode Island,0.06666666666666667
+Georgia,New Jersey,0.06666666666666667
+Michigan,Washington,0.06666666666666667
+Arkansas,New York,0.06666666666666667
+New Jersey,Washington,0.06666666666666667
+Ohio,Washington,0.06666666666666667
+Georgia,Massachusetts,0.06666666666666667
+Alabama,New York,0.06666666666666667
+New Jersey,New York,0.06666666666666667
+Georgia,West Virginia,0.06666666666666667
+New York,West Virginia,0.06666666666666667
+New Jersey,Rhode Island,0.06666666666666667
+New York,Texas,0.0625
+California,Washington,0.0625
+Georgia,Pennsylvania,0.0625
+Texas,Washington,0.0625
+South Carolina,Washington,0.0625
+Pennsylvania,Washington,0.0625
+Maryland,Rhode Island,0.0625
+California,New York,0.0625
+Georgia,Texas,0.0625
+California,Georgia,0.0625
+Louisiana,New York,0.058823529411764705
+Georgia,North Carolina,0.058823529411764705
+North Carolina,Washington,0.058823529411764705
+Mississippi,New York,0.058823529411764705
+Virginia,Washington,0.058823529411764705
+Alaska,Rhode Island,0.05263157894736842
+Florida,New York,0.05
+Hawaii,Wisconsin,0.05
+Florida,Rhode Island,0.05
+Hawaii,Iowa,0.05
+Hawaii,Kansas,0.05
+Hawaii,Missouri,0.05
+Hawaii,Kentucky,0.05
+Hawaii,Minnesota,0.047619047619047616
+Hawaii,New Mexico,0.047619047619047616
+Hawaii,Oregon,0.047619047619047616
+Hawaii,Oklahoma,0.047619047619047616
+Hawaii,Illinois,0.047619047619047616
+Hawaii,Ohio,0.045454545454545456
+Hawaii,Michigan,0.045454545454545456
+Arkansas,Hawaii,0.045454545454545456
+Hawaii,Tennessee,0.045454545454545456
+Alabama,Hawaii,0.045454545454545456
+Hawaii,Texas,0.043478260869565216
+Hawaii,Virginia,0.041666666666666664
+Hawaii,North Carolina,0.041666666666666664
+Hawaii,Louisiana,0.041666666666666664
+Hawaii,Mississippi,0.041666666666666664
+Alaska,Wisconsin,0.04
+Alaska,Missouri,0.04
+Alaska,Kentucky,0.04
+Alaska,Kansas,0.04
+Alaska,Iowa,0.04
+Alaska,Nebraska,0.038461538461538464
+Alaska,Oklahoma,0.038461538461538464
+Alaska,Indiana,0.038461538461538464
+Alaska,Illinois,0.038461538461538464
+Florida,Hawaii,0.037037037037037035
+Alaska,Connecticut,0.037037037037037035
+Alabama,Alaska,0.037037037037037035
+Alaska,Tennessee,0.037037037037037035
+Alaska,Arkansas,0.037037037037037035
+Alaska,Ohio,0.037037037037037035
+Alaska,New Jersey,0.037037037037037035
+Alaska,Massachusetts,0.037037037037037035
+Alaska,Pennsylvania,0.03571428571428571
+Alaska,Maryland,0.03571428571428571
+Alaska,South Carolina,0.03571428571428571
+Alaska,Virginia,0.034482758620689655
+Alaska,North Carolina,0.034482758620689655
+Alaska,Mississippi,0.034482758620689655
+Alaska,Louisiana,0.034482758620689655
+Alaska,Florida,0.03125

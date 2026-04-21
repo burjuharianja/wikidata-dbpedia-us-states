@@ -1,0 +1,224 @@
+state,stateLabel,stateQID,capitalLabel,population,area,borderStateLabel
+http://www.wikidata.org/entity/Q173,Alabama,Q173,Montgomery,5024279,135765,Florida
+http://www.wikidata.org/entity/Q173,Alabama,Q173,Montgomery,5024279,135765,Georgia
+http://www.wikidata.org/entity/Q173,Alabama,Q173,Montgomery,5024279,135765,Mississippi
+http://www.wikidata.org/entity/Q173,Alabama,Q173,Montgomery,5024279,135765,Tennessee
+http://www.wikidata.org/entity/Q797,Alaska,Q797,Juneau,733391,1717856,
+http://www.wikidata.org/entity/Q816,Arizona,Q816,Phoenix,7151502,295234,California
+http://www.wikidata.org/entity/Q816,Arizona,Q816,Phoenix,7151502,295234,Utah
+http://www.wikidata.org/entity/Q816,Arizona,Q816,Phoenix,7151502,295234,Nevada
+http://www.wikidata.org/entity/Q816,Arizona,Q816,Phoenix,7151502,295234,Colorado
+http://www.wikidata.org/entity/Q816,Arizona,Q816,Phoenix,7151502,295234,New Mexico
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Texas
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Mississippi
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Tennessee
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Missouri
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Louisiana
+http://www.wikidata.org/entity/Q1612,Arkansas,Q1612,Little Rock,3011524,137733,Oklahoma
+http://www.wikidata.org/entity/Q99,California,Q99,Sacramento,39538223,423970,Arizona
+http://www.wikidata.org/entity/Q99,California,Q99,Sacramento,39538223,423970,Oregon
+http://www.wikidata.org/entity/Q99,California,Q99,Sacramento,39538223,423970,Nevada
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Arizona
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Utah
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Wyoming
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,New Mexico
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Nebraska
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Kansas
+http://www.wikidata.org/entity/Q1261,Colorado,Q1261,Denver,5773714,269837,Oklahoma
+http://www.wikidata.org/entity/Q779,Connecticut,Q779,Hartford,3605944,14357,Massachusetts
+http://www.wikidata.org/entity/Q779,Connecticut,Q779,Hartford,3605944,14357,New York
+http://www.wikidata.org/entity/Q779,Connecticut,Q779,Hartford,3605944,14357,Rhode Island
+http://www.wikidata.org/entity/Q1393,Delaware,Q1393,Dover,989948,6452,Maryland
+http://www.wikidata.org/entity/Q1393,Delaware,Q1393,Dover,989948,6452,Pennsylvania
+http://www.wikidata.org/entity/Q1393,Delaware,Q1393,Dover,989948,6452,New Jersey
+http://www.wikidata.org/entity/Q812,Florida,Q812,Tallahassee,21538187,170304,Alabama
+http://www.wikidata.org/entity/Q812,Florida,Q812,Tallahassee,21538187,170304,Georgia
+http://www.wikidata.org/entity/Q1428,Georgia,Q1428,Atlanta,10711908,153909,Alabama
+http://www.wikidata.org/entity/Q1428,Georgia,Q1428,Atlanta,10711908,153909,Florida
+http://www.wikidata.org/entity/Q1428,Georgia,Q1428,Atlanta,10711908,153909,North Carolina
+http://www.wikidata.org/entity/Q1428,Georgia,Q1428,Atlanta,10711908,153909,South Carolina
+http://www.wikidata.org/entity/Q1428,Georgia,Q1428,Atlanta,10711908,153909,Tennessee
+http://www.wikidata.org/entity/Q782,Hawaii,Q782,Honolulu,1455271,28311,
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Oregon
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Utah
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Montana
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Wyoming
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Washington
+http://www.wikidata.org/entity/Q1221,Idaho,Q1221,Boise,1839106,216699,Nevada
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Michigan
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Indiana
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Wisconsin
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Iowa
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Missouri
+http://www.wikidata.org/entity/Q1204,Illinois,Q1204,Springfield,12812508,149998,Kentucky
+http://www.wikidata.org/entity/Q1415,Indiana,Q1415,Indianapolis,6785528,94321,Michigan
+http://www.wikidata.org/entity/Q1415,Indiana,Q1415,Indianapolis,6785528,94321,Illinois
+http://www.wikidata.org/entity/Q1415,Indiana,Q1415,Indianapolis,6785528,94321,Ohio
+http://www.wikidata.org/entity/Q1415,Indiana,Q1415,Indianapolis,6785528,94321,Kentucky
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,Illinois
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,South Dakota
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,Minnesota
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,Wisconsin
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,Nebraska
+http://www.wikidata.org/entity/Q1546,Iowa,Q1546,Des Moines,3190369,145746,Missouri
+http://www.wikidata.org/entity/Q1558,Kansas,Q1558,Topeka,2937880,213100,Colorado
+http://www.wikidata.org/entity/Q1558,Kansas,Q1558,Topeka,2937880,213100,Nebraska
+http://www.wikidata.org/entity/Q1558,Kansas,Q1558,Topeka,2937880,213100,Missouri
+http://www.wikidata.org/entity/Q1558,Kansas,Q1558,Topeka,2937880,213100,Oklahoma
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Illinois
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Virginia
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,West Virginia
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Ohio
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Indiana
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Tennessee
+http://www.wikidata.org/entity/Q1603,Kentucky,Q1603,Frankfort,4505836,104659,Missouri
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,New Orleans,4657757,135382,Texas
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,Baton Rouge,4657757,135382,Texas
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,New Orleans,4657757,135382,Mississippi
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,Baton Rouge,4657757,135382,Mississippi
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,New Orleans,4657757,135382,Arkansas
+http://www.wikidata.org/entity/Q1588,Louisiana,Q1588,Baton Rouge,4657757,135382,Arkansas
+http://www.wikidata.org/entity/Q724,Maine,Q724,Augusta,1362359,91646,New Hampshire
+http://www.wikidata.org/entity/Q1391,Maryland,Q1391,Annapolis,6177224,32131,Virginia
+http://www.wikidata.org/entity/Q1391,Maryland,Q1391,Annapolis,6177224,32131,West Virginia
+http://www.wikidata.org/entity/Q1391,Maryland,Q1391,Annapolis,6177224,32131,Delaware
+http://www.wikidata.org/entity/Q1391,Maryland,Q1391,Annapolis,6177224,32131,Pennsylvania
+http://www.wikidata.org/entity/Q771,Massachusetts,Q771,Boston,7029917,27336,New Hampshire
+http://www.wikidata.org/entity/Q771,Massachusetts,Q771,Boston,7029917,27336,Connecticut
+http://www.wikidata.org/entity/Q771,Massachusetts,Q771,Boston,7029917,27336,New York
+http://www.wikidata.org/entity/Q771,Massachusetts,Q771,Boston,7029917,27336,Rhode Island
+http://www.wikidata.org/entity/Q771,Massachusetts,Q771,Boston,7029917,27336,Vermont
+http://www.wikidata.org/entity/Q1166,Michigan,Q1166,Lansing,10077331,250493,Illinois
+http://www.wikidata.org/entity/Q1166,Michigan,Q1166,Lansing,10077331,250493,Ohio
+http://www.wikidata.org/entity/Q1166,Michigan,Q1166,Lansing,10077331,250493,Indiana
+http://www.wikidata.org/entity/Q1166,Michigan,Q1166,Lansing,10077331,250493,Minnesota
+http://www.wikidata.org/entity/Q1166,Michigan,Q1166,Lansing,10077331,250493,Wisconsin
+http://www.wikidata.org/entity/Q1527,Minnesota,Q1527,Saint Paul,5706494,225163,Michigan
+http://www.wikidata.org/entity/Q1527,Minnesota,Q1527,Saint Paul,5706494,225163,North Dakota
+http://www.wikidata.org/entity/Q1527,Minnesota,Q1527,Saint Paul,5706494,225163,South Dakota
+http://www.wikidata.org/entity/Q1527,Minnesota,Q1527,Saint Paul,5706494,225163,Wisconsin
+http://www.wikidata.org/entity/Q1527,Minnesota,Q1527,Saint Paul,5706494,225163,Iowa
+http://www.wikidata.org/entity/Q1494,Mississippi,Q1494,Jackson,2961279,125443,Alabama
+http://www.wikidata.org/entity/Q1494,Mississippi,Q1494,Jackson,2961279,125443,Tennessee
+http://www.wikidata.org/entity/Q1494,Mississippi,Q1494,Jackson,2961279,125443,Louisiana
+http://www.wikidata.org/entity/Q1494,Mississippi,Q1494,Jackson,2961279,125443,Arkansas
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Illinois
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Tennessee
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Iowa
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Nebraska
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Kansas
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Kentucky
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Arkansas
+http://www.wikidata.org/entity/Q1581,Missouri,Q1581,Jefferson City,6154913,181533,Oklahoma
+http://www.wikidata.org/entity/Q1212,Montana,Q1212,Helena,1084225,381154,North Dakota
+http://www.wikidata.org/entity/Q1212,Montana,Q1212,Helena,1084225,381154,South Dakota
+http://www.wikidata.org/entity/Q1212,Montana,Q1212,Helena,1084225,381154,Wyoming
+http://www.wikidata.org/entity/Q1212,Montana,Q1212,Helena,1084225,381154,Idaho
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,South Dakota
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,Wyoming
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,Colorado
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,Iowa
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,Kansas
+http://www.wikidata.org/entity/Q1553,Nebraska,Q1553,Lincoln,1961504,200520,Missouri
+http://www.wikidata.org/entity/Q1227,Nevada,Q1227,Carson City,3104614,286380,California
+http://www.wikidata.org/entity/Q1227,Nevada,Q1227,Carson City,3104614,286380,Arizona
+http://www.wikidata.org/entity/Q1227,Nevada,Q1227,Carson City,3104614,286380,Oregon
+http://www.wikidata.org/entity/Q1227,Nevada,Q1227,Carson City,3104614,286380,Utah
+http://www.wikidata.org/entity/Q1227,Nevada,Q1227,Carson City,3104614,286380,Idaho
+http://www.wikidata.org/entity/Q759,New Hampshire,Q759,Concord,1377529,24214,Maine
+http://www.wikidata.org/entity/Q759,New Hampshire,Q759,Concord,1377529,24214,Massachusetts
+http://www.wikidata.org/entity/Q759,New Hampshire,Q759,Concord,1377529,24214,Vermont
+http://www.wikidata.org/entity/Q1408,New Jersey,Q1408,Trenton,9288994,22591.4,New York
+http://www.wikidata.org/entity/Q1408,New Jersey,Q1408,Trenton,9288994,22591.4,Delaware
+http://www.wikidata.org/entity/Q1408,New Jersey,Q1408,Trenton,9288994,22591.4,Pennsylvania
+http://www.wikidata.org/entity/Q1522,New Mexico,Q1522,Santa Fe,2117522,315194,Arizona
+http://www.wikidata.org/entity/Q1522,New Mexico,Q1522,Santa Fe,2117522,315194,Utah
+http://www.wikidata.org/entity/Q1522,New Mexico,Q1522,Santa Fe,2117522,315194,Colorado
+http://www.wikidata.org/entity/Q1522,New Mexico,Q1522,Santa Fe,2117522,315194,Texas
+http://www.wikidata.org/entity/Q1522,New Mexico,Q1522,Santa Fe,2117522,315194,Oklahoma
+http://www.wikidata.org/entity/Q1384,New York,Q1384,Albany,20201249,141300,Massachusetts
+http://www.wikidata.org/entity/Q1384,New York,Q1384,Albany,20201249,141300,Connecticut
+http://www.wikidata.org/entity/Q1384,New York,Q1384,Albany,20201249,141300,Pennsylvania
+http://www.wikidata.org/entity/Q1384,New York,Q1384,Albany,20201249,141300,New Jersey
+http://www.wikidata.org/entity/Q1384,New York,Q1384,Albany,20201249,141300,Vermont
+http://www.wikidata.org/entity/Q1454,North Carolina,Q1454,Raleigh,10439388,139390,Virginia
+http://www.wikidata.org/entity/Q1454,North Carolina,Q1454,Raleigh,10439388,139390,Georgia
+http://www.wikidata.org/entity/Q1454,North Carolina,Q1454,Raleigh,10439388,139390,South Carolina
+http://www.wikidata.org/entity/Q1454,North Carolina,Q1454,Raleigh,10439388,139390,Tennessee
+http://www.wikidata.org/entity/Q1207,North Dakota,Q1207,Bismarck,779094,183108,South Dakota
+http://www.wikidata.org/entity/Q1207,North Dakota,Q1207,Bismarck,779094,183108,Montana
+http://www.wikidata.org/entity/Q1207,North Dakota,Q1207,Bismarck,779094,183108,Minnesota
+http://www.wikidata.org/entity/Q1397,Ohio,Q1397,Columbus,11799448,116096,Michigan
+http://www.wikidata.org/entity/Q1397,Ohio,Q1397,Columbus,11799448,116096,West Virginia
+http://www.wikidata.org/entity/Q1397,Ohio,Q1397,Columbus,11799448,116096,Pennsylvania
+http://www.wikidata.org/entity/Q1397,Ohio,Q1397,Columbus,11799448,116096,Indiana
+http://www.wikidata.org/entity/Q1397,Ohio,Q1397,Columbus,11799448,116096,Kentucky
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,Colorado
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,Texas
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,New Mexico
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,Kansas
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,Missouri
+http://www.wikidata.org/entity/Q1649,Oklahoma,Q1649,Oklahoma City,3959353,181195,Arkansas
+http://www.wikidata.org/entity/Q824,Oregon,Q824,Salem,4237256,255026,California
+http://www.wikidata.org/entity/Q824,Oregon,Q824,Salem,4237256,255026,Idaho
+http://www.wikidata.org/entity/Q824,Oregon,Q824,Salem,4237256,255026,Washington
+http://www.wikidata.org/entity/Q824,Oregon,Q824,Salem,4237256,255026,Nevada
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,West Virginia
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,New York
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,Maryland
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,Delaware
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,Ohio
+http://www.wikidata.org/entity/Q1400,Pennsylvania,Q1400,Harrisburg,13002700,119283,New Jersey
+http://www.wikidata.org/entity/Q1387,Rhode Island,Q1387,Providence,1097379,3144.245565,Massachusetts
+http://www.wikidata.org/entity/Q1387,Rhode Island,Q1387,Providence,1097379,3144.245565,Connecticut
+http://www.wikidata.org/entity/Q1456,South Carolina,Q1456,Columbia,5118425,82931,Georgia
+http://www.wikidata.org/entity/Q1456,South Carolina,Q1456,Columbia,5118425,82931,North Carolina
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,North Dakota
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,Montana
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,Wyoming
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,Minnesota
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,Iowa
+http://www.wikidata.org/entity/Q1211,South Dakota,Q1211,Pierre,886667,199729,Nebraska
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Alabama
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Virginia
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Georgia
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,North Carolina
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Mississippi
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Missouri
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Kentucky
+http://www.wikidata.org/entity/Q1509,Tennessee,Q1509,Nashville,6910840,109247,Arkansas
+http://www.wikidata.org/entity/Q1439,Texas,Q1439,Austin,29145505,696241,New Mexico
+http://www.wikidata.org/entity/Q1439,Texas,Q1439,Austin,29145505,696241,Louisiana
+http://www.wikidata.org/entity/Q1439,Texas,Q1439,Austin,29145505,696241,Arkansas
+http://www.wikidata.org/entity/Q1439,Texas,Q1439,Austin,29145505,696241,Oklahoma
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,Arizona
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,Wyoming
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,Idaho
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,Nevada
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,Colorado
+http://www.wikidata.org/entity/Q829,Utah,Q829,Salt Lake City,3271616,219653,New Mexico
+http://www.wikidata.org/entity/Q16551,Vermont,Q16551,Montpelier,643077,24923,New Hampshire
+http://www.wikidata.org/entity/Q16551,Vermont,Q16551,Montpelier,643077,24923,Massachusetts
+http://www.wikidata.org/entity/Q16551,Vermont,Q16551,Montpelier,643077,24923,New York
+http://www.wikidata.org/entity/Q1370,Virginia,Q1370,Richmond,8631393,110862,West Virginia
+http://www.wikidata.org/entity/Q1370,Virginia,Q1370,Richmond,8631393,110862,Maryland
+http://www.wikidata.org/entity/Q1370,Virginia,Q1370,Richmond,8631393,110862,North Carolina
+http://www.wikidata.org/entity/Q1370,Virginia,Q1370,Richmond,8631393,110862,Tennessee
+http://www.wikidata.org/entity/Q1370,Virginia,Q1370,Richmond,8631393,110862,Kentucky
+http://www.wikidata.org/entity/Q1223,Washington,Q1223,Olympia,7705281,184827,Oregon
+http://www.wikidata.org/entity/Q1223,Washington,Q1223,Olympia,7705281,184827,Idaho
+http://www.wikidata.org/entity/Q1371,West Virginia,Q1371,Charleston,1793716,62755,Virginia
+http://www.wikidata.org/entity/Q1371,West Virginia,Q1371,Charleston,1793716,62755,Maryland
+http://www.wikidata.org/entity/Q1371,West Virginia,Q1371,Charleston,1793716,62755,Ohio
+http://www.wikidata.org/entity/Q1371,West Virginia,Q1371,Charleston,1793716,62755,Pennsylvania
+http://www.wikidata.org/entity/Q1371,West Virginia,Q1371,Charleston,1793716,62755,Kentucky
+http://www.wikidata.org/entity/Q1537,Wisconsin,Q1537,Madison,5893718,169640,Michigan
+http://www.wikidata.org/entity/Q1537,Wisconsin,Q1537,Madison,5893718,169640,Illinois
+http://www.wikidata.org/entity/Q1537,Wisconsin,Q1537,Madison,5893718,169640,Minnesota
+http://www.wikidata.org/entity/Q1537,Wisconsin,Q1537,Madison,5893718,169640,Iowa
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,Utah
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,South Dakota
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,Montana
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,Idaho
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,Colorado
+http://www.wikidata.org/entity/Q1214,Wyoming,Q1214,Cheyenne,576851,253348,Nebraska

@@ -1,0 +1,30 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?state ?stateLabel ?stateQID ?capitalLabel ?population ?area ?borderStateLabel
+WHERE {
+  ?state wdt:P31 wd:Q35657 .
+
+  ?state rdfs:label ?stateLabel .
+  FILTER(LANG(?stateLabel) = "en")
+
+  OPTIONAL {
+    ?state wdt:P36 ?capital .
+    ?capital rdfs:label ?capitalLabel .
+    FILTER(LANG(?capitalLabel) = "en")
+  }
+
+  OPTIONAL { ?state wdt:P1082 ?population . }
+  OPTIONAL { ?state wdt:P2046 ?area . }
+
+  OPTIONAL {
+    ?state wdt:P47 ?borderState .
+    ?borderState wdt:P31 wd:Q35657 ;
+                 rdfs:label ?borderStateLabel .
+    FILTER(LANG(?borderStateLabel) = "en")
+  }
+
+  BIND(REPLACE(STR(?state), "http://www.wikidata.org/entity/", "") AS ?stateQID)
+}
+ORDER BY ?stateLabel

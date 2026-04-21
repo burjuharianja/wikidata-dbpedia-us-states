@@ -1,0 +1,31 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT ?state ?stateLabel ?capitalLabel ?population ?area
+       (GROUP_CONCAT(DISTINCT ?categoryLabel; SEPARATOR=", ") AS ?categories)
+WHERE {
+  ?state dbo:country dbr:United_States ;
+         rdfs:label ?stateLabel ;
+         dct:subject dbr:Category:States_of_the_United_States .
+
+  FILTER(LANG(?stateLabel) = "en")
+
+  OPTIONAL {
+    ?state dbo:capital ?capital .
+    ?capital rdfs:label ?capitalLabel .
+    FILTER(LANG(?capitalLabel) = "en")
+  }
+
+  OPTIONAL { ?state dbo:populationTotal ?population }
+  OPTIONAL { ?state dbo:areaTotal ?area }
+
+  OPTIONAL {
+    ?state dct:subject ?category .
+    ?category rdfs:label ?categoryLabel .
+    FILTER(LANG(?categoryLabel) = "en")
+  }
+}
+GROUP BY ?state ?stateLabel ?capitalLabel ?population ?area
+ORDER BY ?stateLabel
