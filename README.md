@@ -120,5 +120,5 @@ Script akan menghasilkan file berikut di folder `data_processed/`:
 - Hasil similarity dipengaruhi oleh pemilihan fitur yang digunakan
 
 ## Tautan
-- Halaman Wikidata: **[ISI URL HALAMAN WIKIDATA DI SINI]**
-- Repository GitHub: **[ISI URL REPOSITORY GITHUB DI SINI]**
+- Halaman Wikidata: **[https://www.wikidata.org/wiki/User:Burju_Harianja/Integrasi_Data_Negara_Bagian_AS]**
+- Repository GitHub: **[https://github.com/burjuharianja/wikidata-dbpedia-us-states]**
